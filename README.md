@@ -1,4 +1,4 @@
-#Install Dependencies and make it work
+## Install Dependencies and make it work
 
 `npm i`
 `ng serve`
